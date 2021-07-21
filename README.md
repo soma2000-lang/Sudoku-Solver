@@ -1,4 +1,4 @@
-<h1>File Zipper</h1>
+<h1>Sudoku Solver</h1>
 
 <p>An Sudoku Solver made using backtracking.</p>
 
